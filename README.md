@@ -1,2 +1,2 @@
 # FSM-Projects
-Projects Related to AL,ML,BDDA and DLNLP
+Projects Related to AI, Machine Learning, Big Data and Deep Learning 
